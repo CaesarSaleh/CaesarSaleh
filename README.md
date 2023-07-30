@@ -8,5 +8,7 @@
 *🧠 Psychology, Neuroscience, and their intersection with ANNs
 *🖌️ Full-stack Engineering
 
-## Languages and Tools:
+## Languages/Frameworks/Databases:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,nodejs,express,tailwind,firebase,mongodb,python,r,pytorch,scikit-learn)](https://skills.thijs.gg)
+
+Let's connect and collaborate! 🤝
