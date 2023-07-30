@@ -9,7 +9,6 @@
 * 🖌️ Full-stack Engineering
 
 ## Languages/Frameworks/Databases:
-[![My Skills](https://skills.thijs.gg/icons?i=python,r,pytorch)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,nodejs,express,tailwind,firebase,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,nodejs,express,tailwind,firebase,mongodb,python,r,pytorch)](https://skills.thijs.gg)
 
 #### I'm always happy to connect and collaborate! 🤝
