@@ -1,6 +1,6 @@
 # Hi there, my name is Caesar Saleh 👋
 
-### I'm a CS Specialist + Stats and Math minor @Uoft 💻. I'm extremely interested in deep learning and ANNs as well as creating full-stack interactive interfaces to utilize advancements in that field!
+### I'm a CS Specialist + Stats and Math minor @Uoft 💻. I'm extremely interested in deep learning and ANNs as well as creating full-stack interactive interfaces to utilize advancements in the machine learning field!
 
 ### My interests include:
 * 🤖 Machine Learning
