@@ -1,4 +1,4 @@
-### Hi there, my name is Caesar Saleh 👋
+Hi there, my name is Caesar Saleh 👋
 
 ## I'm a CS Specialist + Stats and Math minor @Uoft 💻
 
