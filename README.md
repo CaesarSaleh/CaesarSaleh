@@ -9,4 +9,4 @@
 *🖌️ Full-stack Engineering
 
 ## Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,node,express,tailwind,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,node,express,tailwind,firebase,mongodb,python,R,pytorch,scikit-learn)](https://skills.thijs.gg)
