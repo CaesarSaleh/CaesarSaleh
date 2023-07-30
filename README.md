@@ -11,4 +11,4 @@
 ## Languages/Frameworks/Databases:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,nodejs,express,tailwind,firebase,mongodb,python,r,pytorch,scikit-learn)](https://skills.thijs.gg)
 
-### Let's connect and collaborate! 🤝
+### I'm always happy to connect and collaborate! 🤝
