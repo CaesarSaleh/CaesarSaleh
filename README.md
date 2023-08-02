@@ -1,6 +1,6 @@
 # Hi there, my name is Caesar Saleh 👋
 
-### I'm a CS Specialist + Stats and Math Minor @ UofT St. George 💻. I'm extremely interested in deep learning and ANNs as well as utilizing full-stack engineering to create interactive interfaces revolving around machine learning!
+### I'm a CS Specialist + Stats & Math Minor @ UofT St. George 💻. I'm extremely interested in deep learning and ANNs as well as utilizing full-stack engineering to create interactive interfaces revolving around machine learning!
 
 ### My interests include:
 * 🤖 Machine Learning
