@@ -1,6 +1,6 @@
 # Hi there, my name is Caesar👋
 
-### I'm a CS Specialist(Focus in AI & Computer Vision) + Stats & Math Minor @ UofT St. George 💻. I'm extremely interested in deep learning and ANNs as well as utilizing full-stack engineering to create interactive interfaces revolving around machine learning!
+### Extremely interested in deep learning and ANNs as well as utilizing full-stack engineering to create interactive interfaces revolving around machine learning!
 
 ### My interests include:
 * 🤖 Machine Learning
