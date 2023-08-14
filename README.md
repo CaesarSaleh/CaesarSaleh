@@ -1,4 +1,4 @@
-# Hi there, my name is Caesar👋
+# Hi there, I'm Caesar👋
 
 ### Extremely interested in deep learning and ANNs as well as utilizing full-stack engineering to create interactive interfaces revolving around machine learning!
 
