@@ -6,7 +6,7 @@
 * 🤖 Machine Learning
 * 📚 Deep Learning
 * 🧠 Psychology, Neuroscience, and their intersection with ANNs
-* 🖌️ Full-stack Engineering
+* ⚙️ Full-stack Engineering
 
 ## Languages & Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,r,html,css,js,ts,bootstrap,tailwind,react,angular,nodejs,express,firebase,mongodb)](https://skills.thijs.gg)
