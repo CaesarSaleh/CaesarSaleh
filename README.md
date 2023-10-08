@@ -1,6 +1,6 @@
 # Hi there, I'm Caesar👋
 
-### Extremely interested in deep learning and ANNs as well as utilizing full-stack engineering to create interactive interfaces revolving around machine learning!
+### Extremely interested in software engineering & deep learning!
 
 ### My interests include:
 * ⚙️ Software Engineering
