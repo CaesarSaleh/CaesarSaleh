@@ -1,8 +1,5 @@
 # Hi there, I'm Caesar👋
 
-### I'm a second year CS student @ UofT who enjoys learning a lot about software engineering, deep learning, building products, research and innovation!
-
-## Languages & Tools🛠️:
-[![My Skills](https://skills.thijs.gg/icons?i=python,flask,django,pytorch,r,bootstrap,tailwind,react,angular,next,nodejs,express,sqlite,firebase,mongodb,docker,java)](https://skills.thijs.gg)
+### I'm a Computer Science student at the University of Toronto, interested in various CS domains.
 
 ### Always happy to connect and collaborate!
